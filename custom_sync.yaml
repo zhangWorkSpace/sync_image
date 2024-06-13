@@ -1,11 +1,4 @@
-k8s.gcr.io:
+docker.io:
   images:
-    defaultbackend-amd64: 
-     - '1.5'
-gcr.io:
-  images:
-    kaniko-project/executor: 
-     - 'latest'
-     - 'v1.8.1'
-     - 'debug'
-     - 'v1.8.1-debug'
+    flannel/flannel-cni-plugin:
+     - 'v1.4.0-flannel1'
