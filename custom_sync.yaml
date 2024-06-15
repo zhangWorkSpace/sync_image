@@ -2,3 +2,5 @@ docker.io:
   images:
     flannel/flannel-cni-plugin:
      - 'v1.4.0-flannel1'
+    elasticsearch:
+     - '8.14.1'
