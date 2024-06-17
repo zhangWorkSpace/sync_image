@@ -4,6 +4,7 @@ docker.io:
      - 'v1.4.0-flannel1'
     elasticsearch:
      - '7.6.2'
+     - '7.17.18'
      - '8.14.1'
      - '8.12.2'
     redis:
