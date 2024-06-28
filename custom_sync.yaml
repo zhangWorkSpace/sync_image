@@ -17,3 +17,5 @@ docker.io:
      - '13-3.2'
     apache/rocketmq:
      - '5.2.0'
+    nginx:
+     - 'latest'
