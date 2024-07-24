@@ -19,3 +19,6 @@ docker.io:
      - '5.2.0'
     nginx:
      - 'latest'
+    postgis/postgis:
+     - '13-3.4-alpine'
+     - '16-3.4-alpine'
