@@ -22,4 +22,6 @@ docker.io:
      - '5.2.0'
     nginx:
      - 'latest'
+    kartoza/geoserver:
+     - 'latest'
 
