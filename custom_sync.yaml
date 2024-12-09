@@ -24,4 +24,11 @@ docker.io:
      - 'latest'
     kartoza/geoserver:
      - 'latest'
+    minio/minio:
+     - 'RELEASE.2020-08-18T19-41-00Z'
+    ballerina/jre11:
+     - 'v1'
+    ubuntu:
+     - '22.04'
+    
 
